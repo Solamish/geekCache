@@ -1,4 +1,4 @@
-package distributedCache
+package lru
 
 import (
 	"container/list"
